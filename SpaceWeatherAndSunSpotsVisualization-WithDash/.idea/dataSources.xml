@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="space" uuid="5fa8238a-c128-46ec-9eee-995124b8de86">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Fuhrer\PycharmProjects\Dash Project\space.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="space [2]" uuid="df9c168a-d30f-409c-b474-6e1bf2d4cd54">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Fuhrer\PycharmProjects\Dash Project\utils\space.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

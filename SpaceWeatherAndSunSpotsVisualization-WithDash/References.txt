@@ -1,0 +1,14 @@
+References
+https://en.wikipedia.org/wiki/Sunspot
+https://www.spaceweatherlive.com/en/help/the-interplanetary-magnetic-field-imf.html
+https://gtr.ukri.org/projects?ref=NE%2FJ018058%2F1
+https://ntrs.nasa.gov/api/citations/19760007443/downloads/19760007443.pdf
+https://climate.nasa.gov/blog/3104/flip-flop-why-variations-in-earths-magnetic-field-arent-causing-todays-climate-change/
+
+Dataset
+https://wwwbis.sidc.be/silso/datafiles
+https://www.swpc.noaa.gov/products/real-time-solar-wind
+https://www.intermagnet.org/data-donnee/download-eng.php#view
+
+API
+https://openweathermap.org/current
