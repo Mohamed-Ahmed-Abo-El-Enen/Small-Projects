@@ -1,0 +1,12 @@
+<center>
+    <form method="POST">
+        <label>Input job title</label>
+        <input name="text" value={{text_val}}>
+        <input type="submit">
+        <p>
+            <input type="radio" name="classifier_type" id="svm" value="svm"> SVM </input><br>
+            <input type="radio" name="classifier_type" id="lstm" value="lstm_dl"> LSTM Deep learning </input><br>
+        </p>
+    </form>
+    <h3>Job title class: {{res}}<h3>
+</center>
