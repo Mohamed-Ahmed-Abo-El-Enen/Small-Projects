@@ -1,0 +1,43 @@
+version: "2.0"
+
+
+# four simple stories, one with location information given, and one without it in which case it is requested separately.
+
+stories:
+
+- story: capital_path
+  steps:
+  - intent: capital_for_country
+#  - active_loop: country_capital_form
+#  - slot_was_set:
+#    - requested_slot: country
+  - action: action_get_capital
+
+- story: population_path
+  steps:
+  - intent: population_for_country
+#  - active_loop: country_population_form
+#  - slot_was_set:
+#    - requested_slot: country
+  - action: action_get_population
+
+# just in case some one asks - who are you...
+
+- story: who_are_you
+  steps:
+  - intent: who_are_you
+  - action: utter_im_rasa
+
+
+# and what can I do
+- story: capabilities
+  steps:
+  - intent: capabilities
+  - action: utter_capabilities
+
+# should the user be friendly...
+- story: how_are_you
+  steps:
+  - intent: how_are_you
+  - action: utter_im_well
+

@@ -1,0 +1,54 @@
+​version: "2.0"
+
+# only rules included are the ones pointing to greeting and goodbye. Both reset all slots.
+
+rules:
+
+- rule: greet_rule
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - action: action_restart
+
+- rule: bye_rule
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+  - action: action_restart
+  
+  
+#- rule: Activate form
+#  steps:
+#  - intent: capital_for_country
+#  - action: country_capital_form
+#  - active_loop: country_capital_form
+
+#- rule: Submit form
+#  condition:
+#  - active_loop: country_capital_form
+#  steps:
+#  - action: country_capital_form
+#  - active_loop: null
+#  - slot_was_set:
+#    - requested_slot: null
+#  - action: utter_submit
+#  - action: utter_slots_values
+  
+#- rule: Activate form
+#  steps:
+#  - intent: population_for_country
+#  - action: country_population_form
+#  - active_loop: country_population_form
+
+#- rule: Submit form
+#  condition:
+#  - active_loop: country_population_form
+#  steps:
+#  - action: country_population_form
+#  - active_loop: null
+#  - slot_was_set:
+#    - requested_slot: null
+#  - action: utter_submit
+#  - action: utter_slots_values
+
+

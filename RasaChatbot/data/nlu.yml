@@ -1,0 +1,135 @@
+version: "2.0"
+# user intents with examples
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - Hallo
+    - hi there
+    - greetings
+    - howdy
+    - Hi
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - thanks
+    - thank you
+    - cheers
+    - exit
+    - quit
+
+# example questions when country is given by the user get capital
+- intent: capital_for_country
+  examples: |
+    - what is the capital of [USA](country)
+    - Tell me capital of [Greece](country)
+    - capital of [Finland](country)
+    - capital in [Japan](country)
+    - [Australia](country) capital
+    - Can you tell me capital of [Sweden](country)
+    - what's the capital of [Russia](country)
+    - what's the capital of [India](country)
+    - what's the capital of [USA](country) ?
+    - what is the capital of [Greece](country) ?
+    - can you tell me capital of [Finland](country) ?
+    
+# example questions when country is given by the user get population
+- intent: population_for_country
+  examples: |
+    - what is the population of [USA](country)
+    - Tell me population of [Greece](country)
+    - population of [Finland](country)
+    - population in [Japan](country)
+    - [Australia](country) population
+    - can you tell me population of [Sweden](country)
+    - what's the population of [Russia](country)
+    - what's the population of [India](country)
+    - what's the population of [USA](country) ?
+    - what is the population of [Greece](country) ?
+    - can you tell me population of [Finland](country) ?
+
+- synonym: Russia
+  examples: |
+    - Russia
+    - russia
+    
+- synonym: India
+  examples: |
+    - India
+    - india
+    
+- synonym: Sweden
+  examples: |
+    - Sweden
+    - sweden
+
+- synonym: Australia
+  examples: |
+    - Australia
+    - australia
+
+- synonym: Japan
+  examples: |
+    - Japan
+    - japan
+
+- synonym: USA
+  examples: |
+    - USA
+    - usa
+    
+- synonym: Greece
+  examples: |
+    - Greece
+    - greece
+    
+- synonym: Finland
+  examples: |
+    - Finland
+    - finland
+    
+# tricky questions.... 
+- intent: who_are_you
+  examples: |
+    - who are you
+    - are you a bot
+    - what is your name
+    - are you human
+    - what are you
+
+# chitchat.... 
+- intent: how_are_you
+  examples: |
+    - how are you
+    - are you ok
+    - nice to meet, how are you
+    - howdy
+    - hows it hanging
+    - how is it going
+    - hows it going
+
+# questions about what can I do
+- intent: capabilities
+  examples: |
+    - what can you do
+    - what are your capabilities
+    - what are you good at
+    - what are you good for
+    - any instructions
+    - instructions
+    - how do i use this
+    - info
+    - information
+    - help
+    - can you help me
+
+

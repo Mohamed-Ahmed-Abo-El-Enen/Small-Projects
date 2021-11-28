@@ -1,0 +1,71 @@
+version: '2.0'
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+
+# all end-user intents
+intents:
+- greet
+- goodbye
+- capital_for_country
+- population_for_country
+- who_are_you
+- capabilities
+- how_are_you
+
+# slots for carrying information between intents and actions and also to and from external python actions - i.e. actions.py here
+entities:
+- country # the location for forecast
+
+# further description of the slots
+slots:
+  country:
+    type: text
+    influence_conversation: true
+
+# any responses outside the Capital/Population predictions
+responses:
+  utter_greet:
+  - text: Hi! I'm Capital/Population Chatbot,what can I do for you?
+  - text: Hello there, I'm Capital/Population Chatbot.
+  utter_goodbye:
+  - text: Bye for now
+  - text: See you again soon.
+  utter_ask_country:
+  - text: In which USA
+  - text: I know Capital/Population USA, Japan, ..., which one would you like to know?
+  - text: Which country?
+  utter_im_rasa:
+  - text: I am Capital/Population Chatbot. I'm running on Rasa Open Source 2.0 conversational AI platform, and I'm good at it!
+  - text: Capital/Population Chatbot.
+  utter_capabilities:
+  - text: I can tell the Capital/Population of some country.
+  utter_im_well:
+  - text: I'm well thanks. I can get Capital/Population for countries.  
+  - text: I'm good, thanks.
+  - text: Good good.
+  utter_submit:
+  - text: ok, thanks
+  utter_slots_values:
+  - text: the country name is {country}
+
+# all actions, including the action_wx which is separate python code and retrieves the Capital/Population information and forms the sentenses.
+actions:
+- action_get_capital
+- action_get_population
+- utter_ask_country
+- utter_goodbye
+- utter_greet
+
+# if end user does not provide location, it is asked separately. Slot value set based on asnwer.
+forms:
+  country_capital_form:
+    country:
+    - type: from_entity
+      entity: country
+
+  country_population_form:
+    country:
+    - type: from_entity
+      entity: country
