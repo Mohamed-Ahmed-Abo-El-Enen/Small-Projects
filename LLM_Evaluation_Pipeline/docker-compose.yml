@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  llm-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+    environment:
+      - PYTHONUNBUFFERED=1
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G

@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  rag-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./uploads:/app/data/uploads
+      - ./vector_store:/app/faiss_index
+    env_file:
+      - .env
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+    restart: unless-stopped

@@ -1,0 +1,1101 @@
+[
+  {
+    "question": "A student is reading the nutritional information on a box of cereal. It says that a single serving contains 215 calories. Which type of energy is being measured by this unit?",
+    "choices": {
+      "A": "kinetic",
+      "B": "chemical",
+      "C": "electrical",
+      "D": "mechanical"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Where is water most likely to be brackish?",
+    "choices": {
+      "A": "sea",
+      "B": "lake",
+      "C": "river",
+      "D": "estuary"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "When atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing the ocean to become",
+    "choices": {
+      "A": "warmer.",
+      "B": "cooler.",
+      "C": "more acidic.",
+      "D": "more alkaline."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which is the best way to show the percent gas composition in Earth's atmosphere?",
+    "choices": {
+      "A": "bar graph",
+      "B": "line graph",
+      "C": "pie chart",
+      "D": "scatterplot"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Charles Darwin made a number of observations and inferences during his travels. He studied island finches during a long period of time. Which statement is an inference?",
+    "choices": {
+      "A": "Individual birds have different colored feathers.",
+      "B": "Island finches have a large number of offspring.",
+      "C": "Individual birds of an island finch species have many differences.",
+      "D": "Island finches share a common ancestry with mainland finch species."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which part of a plant helps the plant make food from sunlight?",
+    "choices": {
+      "A": "leaf",
+      "B": "seed",
+      "C": "fruit",
+      "D": "pollen"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which of the following has changed over the last 200 years primarily due to human activity?",
+    "choices": {
+      "A": "Earth's magnetic field",
+      "B": "the frequency of earthquakes",
+      "C": "Earth's tectonic plate activity",
+      "D": "the composition of the atmosphere"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which is an example of a hypothesis?",
+    "choices": {
+      "A": "Large mice will eat more food than smaller mice.",
+      "B": "One flower was measured to be 13 centimeters tall.",
+      "C": "On a dark night, a student counted hundreds of stars.",
+      "D": "People should be careful to protect endangered animals."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "The Russian thistle, commonly known as the tumbleweed, is a big, round plant with many branches and short, stiff leaves. This plant spreads a large number of seeds when it breaks off from its stalk. The thistle is most likely found in what kind of environment?",
+    "choices": {
+      "A": "swamp",
+      "B": "prairie",
+      "C": "forest",
+      "D": "tundra"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "The skin, lungs, and kidneys work together to",
+    "choices": {
+      "A": "help eliminate body wastes.",
+      "B": "help blood circulate.",
+      "C": "aid in digestion.",
+      "D": "aid in respiration."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Air pollution can influence a person's quality of life. Which best identifies the influence of air pollution?",
+    "choices": {
+      "A": "It is a behavioral influence.",
+      "B": "It is a genetic influence.",
+      "C": "It is an environmental influence.",
+      "D": "It is a dietary influence."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Tooth decay is an infection that causes deterioration of the protective enamel on teeth, resulting in damage. Tooth decay is most likely caused by",
+    "choices": {
+      "A": "bacteria.",
+      "B": "acidic food.",
+      "C": "allergies.",
+      "D": "genetic defects."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Farm fertilizers are often carried by runoff into the Mississippi River and down to the Gulf of Mexico, resulting in algae blooms. Which of these results from the decomposition of the algae blooms?",
+    "choices": {
+      "A": "an abundance of dissolved oxygen",
+      "B": "dead zones where there are no fish",
+      "C": "a reduction in atmospheric carbon dioxide",
+      "D": "food webs with rapidly growing populations"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which two theories of Moon formation propose that much or all of the material comprising the Moon came from Earth?",
+    "choices": {
+      "A": "The Fission Theory and The Coaccretion Theory",
+      "B": "The Coaccretion Theory and The Capture Theory",
+      "C": "The Fission Theory and the Giant Impact Theory",
+      "D": "The Capture Theory and the Giant Impact Theory"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Planets outside of our solar system have been detected. What suggested the presence of a planet outside of our solar system?",
+    "choices": {
+      "A": "radio wave emissions",
+      "B": "a wobble in the rotation of the star",
+      "C": "regular occurring eclipses of its moons",
+      "D": "the discovery of a star as large as our own"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which widely used energy sources are nonrenewable and also a source of greenhouse gas emissions?",
+    "choices": {
+      "A": "wind turbines",
+      "B": "hydroelectric dams",
+      "C": "fossil fuels",
+      "D": "solar cells"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which job is done in Virginia only during the fall season?",
+    "choices": {
+      "A": "Picking apples",
+      "B": "Feeding animals",
+      "C": "Selling clothes",
+      "D": "Building houses"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "A researcher is working on a family genetics project. She wants to trace a particular trait back through several generations of her ancestors. Which type of display will best help the researcher organize the information?",
+    "choices": {
+      "A": "flow chart",
+      "B": "cycle diagram",
+      "C": "pedigree chart",
+      "D": "Punnett square"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these is the primary source of energy in food webs?",
+    "choices": {
+      "A": "soil",
+      "B": "sunlight",
+      "C": "producer",
+      "D": "consumer"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which of the following is an example of a compound?",
+    "choices": {
+      "A": "copper",
+      "B": "iron",
+      "C": "carbon",
+      "D": "water"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these is a structure that is present in all organisms?",
+    "choices": {
+      "A": "a tissue",
+      "B": "a cell",
+      "C": "a stomach",
+      "D": "a brain"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these is the BEST sign that the fall season has begun?",
+    "choices": {
+      "A": "Plants forming new buds",
+      "B": "Sun shining on flowers",
+      "C": "Grass being wet in the morning",
+      "D": "Leaves changing color on trees"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Dr. Mendez specializes in patients who have osteoarthritis. His patients often complain of pain and swelling due to loss of cartilage. Which system is most affected by this disease?",
+    "choices": {
+      "A": "cardiovascular",
+      "B": "digestive",
+      "C": "immune",
+      "D": "musculoskeletal"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "A scientist found a fossil of an organism that had gills. When the organism was living, the area in which it lived was most likely covered by ___.",
+    "choices": {
+      "A": "forest",
+      "B": "grassland",
+      "C": "bare rock",
+      "D": "water"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which plant is grown for food?",
+    "choices": {
+      "A": "Rice",
+      "B": "Tobacco",
+      "C": "Orchid",
+      "D": "Cotton"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these activities makes the MOST air pollution?",
+    "choices": {
+      "A": "Storing trash bags",
+      "B": "Reusing trash bags",
+      "C": "Burning trash bags",
+      "D": "Recycling trash bags"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Jamil studied how the position of Earth around the Sun affects the energy available on Earth. Which best explains why a particular place on Earth receives more energy during summer months than winter months?",
+    "choices": {
+      "A": "the tilt of Earth",
+      "B": "the rotation of Earth",
+      "C": "the distance between Earth and the Sun",
+      "D": "the amount of rays produced by the Sun"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "When light reflects off certain crystals in the atmosphere, effects called halos appear. Which substance in the atmosphere forms these crystals?",
+    "choices": {
+      "A": "carbon dioxide",
+      "B": "oxygen",
+      "C": "sulfur dioxide",
+      "D": "water"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "A cut to the skin is treated with antiseptic first to avoid",
+    "choices": {
+      "A": "an immune response.",
+      "B": "a bacterial infection.",
+      "C": "bruising of tissues.",
+      "D": "an allergic reaction."
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "The charge of the nucleus of an atom is due to the presence of",
+    "choices": {
+      "A": "positive protons.",
+      "B": "negative neutrons.",
+      "C": "negative protons and positive electrons.",
+      "D": "positive protons and negative neutrons."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "When manned space exploration began, NASA used the gravity assist concept so that spacecraft could conserve fuel. Which statement explains why the gravity assist concept was useful for spacecraft to successfully travel and return to Earth?",
+    "choices": {
+      "A": "It gave spacecraft a timed trajectory.",
+      "B": "It ensured spacecraft would return home safely.",
+      "C": "It was helpful in planning spacecraft trajectories.",
+      "D": "It ensured spacecraft would avoid being pulled into the sun."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which is most directly responsible for building up a river delta?",
+    "choices": {
+      "A": "erosion",
+      "B": "leaching",
+      "C": "subsidence",
+      "D": "deposition"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Students visit an aquarium and watch how an octopus behaves in its tank. Which behavior did the octopus most likely learn from its aquarium environment?",
+    "choices": {
+      "A": "waiting to be fed at the aquarium door",
+      "B": "catching food using its arms",
+      "C": "being more active at night",
+      "D": "hiding behind rocks"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which would be a safe practice to exercise during laboratory investigations?",
+    "choices": {
+      "A": "using open flames to heat all materials",
+      "B": "keeping your cell phone on the laboratory countertop",
+      "C": "knowing where your instructor/laboratory leader is at all times",
+      "D": "removing your safety glasses when moving from station to station"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which human body systems work together to send messages?",
+    "choices": {
+      "A": "muscular and skeletal",
+      "B": "nervous and endocrine",
+      "C": "excretory and digestive",
+      "D": "circulatory and respiratory"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "A dietary supplement manufacturer developed a new calcium supplement that appears to increase the bone density in middle-aged women. When tested in a small clinical trial, the supplement was shown to cause a 15% increase in bone density in 8 out of 10 women. Before the supplement is offered to the general public, which step should the manufacturer take next?",
+    "choices": {
+      "A": "add a variety of vitamins to the supplement",
+      "B": "test the supplement on mice in the laboratory",
+      "C": "develop packaging that is attractive to women",
+      "D": "test the supplement on a larger sample of women"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Students combined baking soda and vinegar to demonstrate a chemical reaction. What indicates that a chemical reaction occurred?",
+    "choices": {
+      "A": "the formation of bubbles",
+      "B": "a reduction in total mass",
+      "C": "the disappearance of atoms",
+      "D": "an increase in the number of atoms"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "An animal that has thick fur, webbed feet, and blubber would probably live in the",
+    "choices": {
+      "A": "Arctic Ocean.",
+      "B": "Amazon Rain Forest.",
+      "C": "Intracoastal Waterway, Florida.",
+      "D": "Mojave Desert, California."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these events during a storm at sea can add oxygen from the atmosphere to ocean water?",
+    "choices": {
+      "A": "high winds",
+      "B": "lightning",
+      "C": "pressure change",
+      "D": "temperature change"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "The human brain is an organ that is made up of many tissues. This information can be used to determine that the brain is",
+    "choices": {
+      "A": "unicellular.",
+      "B": "multicellular.",
+      "C": "part of a bacterial colony.",
+      "D": "able to function independently."
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which is the best description of the brightness of the Sun?",
+    "choices": {
+      "A": "It is less bright than planets.",
+      "B": "It is brighter than other stars.",
+      "C": "It is of average brightness compared to planets.",
+      "D": "It is of average brightness compared to other stars."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "An enclosed 20 mL metal cylinder was filled with a gas sample at room temperature. The sample then was transferred to an empty 40 mL enclosed container, also at room temperature. After being transferred, the volume of the gas was",
+    "choices": {
+      "A": "10 mL.",
+      "B": "20 mL.",
+      "C": "30 mL.",
+      "D": "40 mL."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which trait can children inherit from their parents?",
+    "choices": {
+      "A": "long hair",
+      "B": "favorite color",
+      "C": "brown eyes",
+      "D": "broken arm"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "What season is it in the United States when the South Pole is tilted toward the Sun?",
+    "choices": {
+      "A": "summer",
+      "B": "fall",
+      "C": "winter",
+      "D": "spring"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these cell parts store genetic instructions for the entire organism and transfers them from one generation to the next?",
+    "choices": {
+      "A": "chloroplasts",
+      "B": "mitochondria",
+      "C": "DNA molecules",
+      "D": "nuclear membranes"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "An octopus releases black ink into the water when feeling threatened. What does this most likely help an octopus do?",
+    "choices": {
+      "A": "find shelter",
+      "B": "hunt for food",
+      "C": "swim faster",
+      "D": "escape enemies"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Two of Earth's plates pushed together, and the ground moved. What happened?",
+    "choices": {
+      "A": "an earthquake",
+      "B": "a landslide",
+      "C": "a volcano",
+      "D": "an avalanche"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which material is a good conductor of heat?",
+    "choices": {
+      "A": "plastic",
+      "B": "rubber",
+      "C": "glass",
+      "D": "copper"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "During digestion, fructose is produced by the breakdown of larger molecules. Which type of molecule could be broken down to increase the body's fructose levels?",
+    "choices": {
+      "A": "proteins",
+      "B": "vitamins",
+      "C": "triglycerides",
+      "D": "carbohydrates"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Leslie's science teacher told her she must take a flexible approach to solving problems. What did Leslie's teacher most likely mean?",
+    "choices": {
+      "A": "Leslie should not follow the experimental instructions exactly.",
+      "B": "Leslie should only write down lab results that seem to be correct.",
+      "C": "Leslie should accept all scientific theories even if they have been proven wrong.",
+      "D": "Leslie should be willing to consider many possible causes for her observations."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "A scientist trying to identify an unknown liquid may heat the liquid. Which would be the best reason for the scientist to heat the liquid?",
+    "choices": {
+      "A": "to observe a color change",
+      "B": "to get rid of most impurities",
+      "C": "to identify the boiling point",
+      "D": "to collect gases for additional study"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "During freezing, melting, and boiling, water changes from one state to another state. Heat needs to be supplied for which of these to take place?",
+    "choices": {
+      "A": "boiling only",
+      "B": "melting only",
+      "C": "melting and freezing but not boiling",
+      "D": "melting and boiling but not freezing"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "A model of Earth would be different from a model of the Moon because the Moon model would be",
+    "choices": {
+      "A": "shinier",
+      "B": "heavier",
+      "C": "smaller",
+      "D": "rougher"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "The magnetic poles of Earth frequently change location. What is the direct cause of this change in magnetic pole location?",
+    "choices": {
+      "A": "molten rock flowing in the asthenosphere",
+      "B": "convection cells in the lower mantle",
+      "C": "turbulence in the liquid outer core",
+      "D": "radioactive decay in the solid inner core"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "In the late 1700s, Antoine Lavoisier performed a series of experiments to find out what happened when a substance burned. In each experiment, he observed that the weight of a container and its contents was the same at the end of the experiment as it had been in the beginning. These observations led him to propose the law of",
+    "choices": {
+      "A": "combustion.",
+      "B": "fixed proportions.",
+      "C": "conservation of mass.",
+      "D": "conservation of energy."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which of the following is a direct result of Earth's tilt on its axis?",
+    "choices": {
+      "A": "tides",
+      "B": "seasons",
+      "C": "weather",
+      "D": "gravity"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which type of model best shows the location of underwater ocean ridges?",
+    "choices": {
+      "A": "world globe",
+      "B": "satellite map",
+      "C": "topographic map",
+      "D": "nautical chart"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "An earthworm has a length of 12.8 centimeters. What is the length, in millimeters, of the earthworm?",
+    "choices": {
+      "A": "0.128 millimeter",
+      "B": "1.28 millimeters",
+      "C": "128 millimeters",
+      "D": "1280 millimeters"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "A student mixes a spoonful of sand into a beaker of water. Which two methods can be used to separate the sand from the water?",
+    "choices": {
+      "A": "filtration and evaporation",
+      "B": "settling and chromatography",
+      "C": "chromatography and filtration",
+      "D": "settling and magnetic attraction"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which difference between water and ice results in ice floating on cold water?",
+    "choices": {
+      "A": "heat",
+      "B": "shape",
+      "C": "density",
+      "D": "volume"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "The first stage of soil formation is the weathering of rock into fine particles. To make a good soil for growing plants, which would be best to add to the rock particles?",
+    "choices": {
+      "A": "minerals",
+      "B": "sand",
+      "C": "organic matter",
+      "D": "silt"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "What force pulls things towards the center of Earth?",
+    "choices": {
+      "A": "magnetism",
+      "B": "gravity",
+      "C": "friction",
+      "D": "energy"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Biochemical reactions that require high temperatures to proceed are able to take place at body temperature within the cells of living organisms. Which factor is mainly responsible for allowing biochemical reactions to proceed at body temperature?",
+    "choices": {
+      "A": "The cellular enzymes act as catalysts.",
+      "B": "The small size of cells keeps reactants together.",
+      "C": "The pH of the cytoplasm increases reaction rate.",
+      "D": "The reactants are present in small quantities in the cell."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which organisms break down dead matter and recycle nutrients back into the ecosystem?",
+    "choices": {
+      "A": "grasses and trees",
+      "B": "rabbits and deer",
+      "C": "lions and alligators",
+      "D": "mushrooms and bacteria"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these is an example of a new substance being formed?",
+    "choices": {
+      "A": "a nail rusting",
+      "B": "a wall being painted",
+      "C": "water changing to steam",
+      "D": "paper being folded"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which sequence has the states of matter listed from least to greatest kinetic energy?",
+    "choices": {
+      "A": "solid -> gas -> liquid",
+      "B": "gas -> liquid -> solid",
+      "C": "liquid -> solid -> gas",
+      "D": "solid -> liquid -> gas"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "What type of force keeps the planets orbiting the Sun?",
+    "choices": {
+      "A": "gravitational",
+      "B": "magnetic",
+      "C": "electrical",
+      "D": "nuclear"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Physical features help animals survive. Which statement best describes physical adaptations that occur through natural selection in changing environments?",
+    "choices": {
+      "A": "They result in population decline.",
+      "B": "They are all observable in the fossil record.",
+      "C": "They occur slowly over long periods of time.",
+      "D": "They are more likely to be observed in plants."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "A scientific explanation should include a demonstration of the relationships between",
+    "choices": {
+      "A": "measurement, form, and function.",
+      "B": "changes, interactions, and formulas.",
+      "C": "logic, evidence, and current knowledge.",
+      "D": "hypothesis, problem solving, and lab equipment."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which human body systems work directly together to allow locomotion?",
+    "choices": {
+      "1": "circulatory, excretory, and respiratory",
+      "2": "circulatory, endocrine, and reproductive",
+      "3": "skeletal, muscular, and nervous",
+      "4": "skeletal, digestive, and respiratory"
+    },
+    "correct_answer": "3",
+    "category": "Science"
+  },
+  {
+    "question": "What is a benefit of using technology, such as robotics, in manufacturing?",
+    "choices": {
+      "A": "decreased production cost",
+      "B": "decreased productivity",
+      "C": "increased number of manual-labor jobs",
+      "D": "increased number of design flaws"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which type of ecosystem has the greatest variation in temperature from its top to its bottom?",
+    "choices": {
+      "A": "lake",
+      "B": "pond",
+      "C": "ocean",
+      "D": "estuary"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which form of energy is produced when a rubber band vibrates?",
+    "choices": {
+      "1": "chemical",
+      "2": "light",
+      "3": "electrical",
+      "4": "sound"
+    },
+    "correct_answer": "4",
+    "category": "Science"
+  },
+  {
+    "question": "Which are replenished more quickly than they are used?",
+    "choices": {
+      "A": "energy resources",
+      "B": "material resources",
+      "C": "renewable resources",
+      "D": "nonrenewable resources"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "The job of the bladder in an animal is to store wastes. Which organ in an animal removes wastes from the blood?",
+    "choices": {
+      "A": "liver",
+      "B": "heart",
+      "C": "stomach",
+      "D": "kidney"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Imprints of the shells of ocean clams are often found in the rocks of the Appalachian Mountains. What do these imprint fossils most likely indicate?",
+    "choices": {
+      "A": "These mountains were once under the ocean.",
+      "B": "These mountains once had a more rainy climate.",
+      "C": "Mountain river clams evolved from ocean clams.",
+      "D": "Ocean clams evolved from mountain river clams."
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "All living things contain which element?",
+    "choices": {
+      "A": "helium.",
+      "B": "sodium.",
+      "C": "copper.",
+      "D": "carbon."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Miranda learned how the human body carries out life functions. Which is the most basic level of organization in the human body?",
+    "choices": {
+      "A": "an organ",
+      "B": "a system",
+      "C": "a tissue",
+      "D": "a cell"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "A large amount of oil was spilled in a lake environment. Within a few weeks, the number of plants and animals living in the area where the oil was spilled will most likely",
+    "choices": {
+      "A": "decrease",
+      "B": "increase",
+      "C": "remain the same"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which of these is a natural resource of Virginia?",
+    "choices": {
+      "A": "A dam",
+      "B": "A glacier",
+      "C": "A river",
+      "D": "A power plant"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "The trunk of a pine tree supports the tree. Which part of a daisy supports the plant the same way?",
+    "choices": {
+      "A": "stem",
+      "B": "flower",
+      "C": "root",
+      "D": "leaf"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Humans are protected from some infections by specialized cells which produce chemicals that",
+    "choices": {
+      "1": "destroy microbes",
+      "2": "recycle nutrients",
+      "3": "allow locomotion",
+      "4": "coordinate movement"
+    },
+    "correct_answer": "1",
+    "category": "Science"
+  },
+  {
+    "question": "Having dry, hot weather for a long time can cause a",
+    "choices": {
+      "A": "drought",
+      "B": "thunderstorm",
+      "C": "tornado",
+      "D": "flood"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which statement below best explains why several fossils of sea organisms were discovered buried deep in an area of dry land?",
+    "choices": {
+      "A": "The fossils changed locations.",
+      "B": "The area had a shift in climate.",
+      "C": "The land was once underwater.",
+      "D": "A glacier once covered the area."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Which process is taking place when water freezes between cracks in rocks?",
+    "choices": {
+      "A": "deposition",
+      "B": "weathering",
+      "C": "sedimentation",
+      "D": "crystallization"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "A student wants to organize a group of animals into two categories based on observable external features. Which display will most appropriately show the two categories of animals?",
+    "choices": {
+      "A": "a timeline",
+      "B": "a pie chart",
+      "C": "a data table",
+      "D": "a line graph"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "Fossil fuels are considered nonrenewable because they",
+    "choices": {
+      "1": "produce pollution",
+      "2": "are no longer used by humans",
+      "3": "often contain microscopic animals",
+      "4": "take millions of years to form"
+    },
+    "correct_answer": "4",
+    "category": "Science"
+  },
+  {
+    "question": "Which device directly converts chemical energy into electrical energy?",
+    "choices": {
+      "1": "solar-powered calculator",
+      "2": "wood-burning stove",
+      "3": "battery-powered flashlight",
+      "4": "wind-powered sailboat"
+    },
+    "correct_answer": "3",
+    "category": "Science"
+  },
+  {
+    "question": "What helps skin feel heat and pressure?",
+    "choices": {
+      "A": "muscle cells",
+      "B": "blood cells",
+      "C": "nerve cells",
+      "D": "bone cells"
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "When a bird sings, it is most likely singing in order to",
+    "choices": {
+      "A": "frighten away other types of birds",
+      "B": "mark the bird's territory against the same type of bird",
+      "C": "attract insects",
+      "D": "wake up other animals"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Which of the following best describes the relationship between frequency and wavelength of electromagnetic waves?",
+    "choices": {
+      "A": "If the frequency remains constant, the wavelength increases.",
+      "B": "The wavelength decreases as the frequency decreases.",
+      "C": "The frequency increases as the wavelength decreases.",
+      "D": "If the wavelength remains constant, the frequency increases."
+    },
+    "correct_answer": "C",
+    "category": "Science"
+  },
+  {
+    "question": "A drug company developed a pill to reduce cases of stomach virus. To test the medication, half of the participants got the pill with the new medicine and half got a sugar pill. Which term best identifies the participants who got a sugar pill?",
+    "choices": {
+      "A": "control",
+      "B": "experimental",
+      "C": "dependent variable",
+      "D": "independent variable"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which statement best describes the effect deforestation has on Earth's atmosphere?",
+    "choices": {
+      "A": "The amount of oxygen increases.",
+      "B": "The amount of methane increases.",
+      "C": "The amount of water vapor increases.",
+      "D": "The amount of carbon dioxide increases."
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "Which of the following is composed of many cells?",
+    "choices": {
+      "A": "virus",
+      "B": "bacterium",
+      "C": "paramecium",
+      "D": "plant"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "The heath hen, an extinct small wild fowl, was a relative of the prairie chicken. Which of the following most likely caused extinction of the heath hen?",
+    "choices": {
+      "A": "overhunting",
+      "B": "stable climate",
+      "C": "plentiful food supply",
+      "D": "abundant nesting sites"
+    },
+    "correct_answer": "A",
+    "category": "Science"
+  },
+  {
+    "question": "Which factor is most likely to cause the number of rabbits living in an area to increase?",
+    "choices": {
+      "1": "less water",
+      "2": "fewer predators",
+      "3": "lack of shelter",
+      "4": "limited food"
+    },
+    "correct_answer": "2",
+    "category": "Science"
+  },
+  {
+    "question": "Cell division is necessary for an organism to",
+    "choices": {
+      "A": "obtain nutrients.",
+      "B": "grow and reproduce.",
+      "C": "make proteins.",
+      "D": "conserve matter and energy."
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "Francis plugged a toaster into an electric outlet. He put a piece of bread in the toaster and turned the toaster on. While the toaster was on, it changed the electrical energy from the outlet into other forms of energy. Which form of energy toasted the bread?",
+    "choices": {
+      "A": "chemical",
+      "B": "heat",
+      "C": "magnetic",
+      "D": "sound"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  },
+  {
+    "question": "A student uses clay to construct a model of Earth. Which layer of the model should be the thinnest layer?",
+    "choices": {
+      "A": "the layer representing the mantle",
+      "B": "the layer representing the outer core",
+      "C": "the layer representing the inner core",
+      "D": "the layer representing the crust"
+    },
+    "correct_answer": "D",
+    "category": "Science"
+  },
+  {
+    "question": "In their science classroom, Sam and Julia cross a heterozygous tall (Tt) pea plant with a homozygous short (tt) pea plant. What ratio represents the results Sam and Julia can expect?",
+    "choices": {
+      "A": "1 tall plant to 3 short plants",
+      "B": "2 tall plants to 2 short plants",
+      "C": "3 tall plants to 1 short plant",
+      "D": "4 tall plants to 0 short plants"
+    },
+    "correct_answer": "B",
+    "category": "Science"
+  }
+]

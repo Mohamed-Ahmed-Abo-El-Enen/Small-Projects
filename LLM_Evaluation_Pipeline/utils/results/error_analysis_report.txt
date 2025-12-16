@@ -1,0 +1,69 @@
+============================================================
+LLM EVALUATION - ERROR ANALYSIS REPORT
+============================================================
+
+QUANTITATIVE ANALYSIS
+------------------------------------------------------------
+Overall Accuracy: 50.00%
+Total Questions: 100
+Correct Answers: 50
+Incorrect Answers: 50
+Average Response Time: 7.140s
+Median Response Time: 8.153s
+
+Per-Category Performance:
+Science: 50.00% (100 questions)
+
+QUALITATIVE ANALYSIS
+------------------------------------------------------------
+
+Common Failure Patterns:
+Total failures: 50
+Most common wrong answers: {'A': 39, 'B': 7, 'C': 3}
+
+Example Incorrect Responses:
+
+Question: Where is water most likely to be brackish?...
+Correct Answer: D
+Model Answer: A
+Model Response: A. sea
+
+Explanation: Water is most likely to be brackish in a sea. A sea is a body of water that is surrounded by water, and it is characterized by it...
+
+Question: When atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing...
+Correct Answer: C
+Model Answer: A
+Model Response: A. warmer.
+
+Explanation: The increase in atmospheric carbon dioxide levels can cause the ocean to become warmer. This is because carbon dioxide is a g...
+
+Question: Which is the best way to show the percent gas composition in Earth's atmosphere?...
+Correct Answer: C
+Model Answer: A
+Model Response: A. bar graph
+
+Explanation: The best way to show the percent gas composition in Earth's atmosphere is through a bar graph. A bar graph is a graph that ...
+
+
+Example Correct Responses:
+
+Question: A student is reading the nutritional information on a box of cereal. It says that a single serving c...
+Correct Answer: B
+Model Response: B. chemical
+
+Explanation: The nutritional information on a box of cereal states that a single serving contains 215 calories. This information is in te...
+
+Question: Which part of a plant helps the plant make food from sunlight?...
+Correct Answer: A
+Model Response: A. leaf
+
+Explanation: The leaf is the part of a plant that helps the plant make food from sunlight. It is the part of the plant that absorbs sunlight ...
+
+Question: Which is an example of a hypothesis?...
+Correct Answer: A
+Model Response: A. Large mice will eat more food than smaller mice.
+
+Explanation: The correct answer is A, as it is an example of a hypothesis. A hypothesis is a stat...
+
+
+============================================================

@@ -1,0 +1,919 @@
+{
+  "results": [
+    {
+      "question": "A student is reading the nutritional information on a box of cereal. It says that a single serving contains 215 calories. Which type of energy is being measured by this unit?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 8.091064691543579,
+      "full_response": "B. chemical\n\nExplanation: The nutritional information on a box of cereal states that a single serving contains 215 calories. This information is in terms of calories, which are a measure of energy. The other options, such as kinetic, electrical"
+    },
+    {
+      "question": "Where is water most likely to be brackish?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.303154945373535,
+      "full_response": "A. sea\n\nExplanation: Water is most likely to be brackish in a sea. A sea is a body of water that is surrounded by water, and it is characterized by its salt content. The presence of salt in water can cause it"
+    },
+    {
+      "question": "When atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing the ocean to become",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.3077552318573,
+      "full_response": "A. warmer.\n\nExplanation: The increase in atmospheric carbon dioxide levels can cause the ocean to become warmer. This is because carbon dioxide is a greenhouse gas that traps heat in the atmosphere, leading to an increase in global temperatures. As a result, the"
+    },
+    {
+      "question": "Which is the best way to show the percent gas composition in Earth's atmosphere?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.564495086669922,
+      "full_response": "A. bar graph\n\nExplanation: The best way to show the percent gas composition in Earth's atmosphere is through a bar graph. A bar graph is a graph that uses bars to represent the values of the variables. In this case, the variables are"
+    },
+    {
+      "question": "Charles Darwin made a number of observations and inferences during his travels. He studied island finches during a long period of time. Which statement is an inference?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "C",
+      "is_correct": false,
+      "response_time": 2.62117862701416,
+      "full_response": "C. Individual birds of an island finch species have many differences."
+    },
+    {
+      "question": "Which part of a plant helps the plant make food from sunlight?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.128831148147583,
+      "full_response": "A. leaf\n\nExplanation: The leaf is the part of a plant that helps the plant make food from sunlight. It is the part of the plant that absorbs sunlight and converts it into energy, which is then used to grow and produce food. The"
+    },
+    {
+      "question": "Which of the following has changed over the last 200 years primarily due to human activity?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.955236434936523,
+      "full_response": "A. Earth's magnetic field\n\nExplanation: The Earth's magnetic field has changed significantly over the last 200 years due to human activity. The magnetic field is a natural force that protects the Earth from the sun's magnetic field. The Earth"
+    },
+    {
+      "question": "Which is an example of a hypothesis?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.886590242385864,
+      "full_response": "A. Large mice will eat more food than smaller mice.\n\nExplanation: The correct answer is A, as it is an example of a hypothesis. A hypothesis is a statement that is proposed as a possible explanation for a phenomenon. In this case, the"
+    },
+    {
+      "question": "The Russian thistle, commonly known as the tumbleweed, is a big, round plant with many branches and short, stiff leaves. This plant spreads a large number of seeds when it breaks off from its stalk. The thistle is most likely found in what kind of environment?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.230685472488403,
+      "full_response": "A. swamp\n\nExplanation: The Russian thistle is a plant that is native to the Russian tundra. It is a big, round plant with many branches and short, stiff leaves. When it breaks off from its stalk, it spreads a large"
+    },
+    {
+      "question": "The skin, lungs, and kidneys work together to",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.217888832092285,
+      "full_response": "A. help eliminate body wastes.\n\nExplanation: The skin, lungs, and kidneys work together to help eliminate body wastes. This is because the skin and lungs are responsible for removing waste products from the body, while the kidneys filter out waste products from the"
+    },
+    {
+      "question": "Air pollution can influence a person's quality of life. Which best identifies the influence of air pollution?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.10137939453125,
+      "full_response": "C. It is an environmental influence.\n\nExplanation: Air pollution can have a significant impact on a person's quality of life. It can affect their physical health, mental health, and overall well-being. The environmental factors that contribute to air pollution include the"
+    },
+    {
+      "question": "Tooth decay is an infection that causes deterioration of the protective enamel on teeth, resulting in damage. Tooth decay is most likely caused by",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.660167694091797,
+      "full_response": "A. bacteria.\n\nExplanation: Tooth decay is caused by bacteria, which are microorganisms that live on and in the teeth. These bacteria produce acids that damage the enamel, causing tooth decay. Bacteria are the most common cause of tooth decay, and"
+    },
+    {
+      "question": "Farm fertilizers are often carried by runoff into the Mississippi River and down to the Gulf of Mexico, resulting in algae blooms. Which of these results from the decomposition of the algae blooms?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 8.162002801895142,
+      "full_response": "B. dead zones where there are no fish\n\nExplanation: The dead zones in the Mississippi River and Gulf of Mexico are caused by the decomposition of algae blooms. These blooms contain a large amount of dead algae, which are then consumed by phytoplank"
+    },
+    {
+      "question": "Which two theories of Moon formation propose that much or all of the material comprising the Moon came from Earth?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 2.546997547149658,
+      "full_response": "A. The Fission Theory and The Coaccretion Theory"
+    },
+    {
+      "question": "Planets outside of our solar system have been detected. What suggested the presence of a planet outside of our solar system?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.839818716049194,
+      "full_response": "A. radio wave emissions\n\nExplanation: Planets outside of our solar system have been detected through radio waves. These waves are emitted by planets and other celestial bodies that orbit the sun. They are detected by telescopes and are used to study the properties"
+    },
+    {
+      "question": "Which widely used energy sources are nonrenewable and also a source of greenhouse gas emissions?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.843297719955444,
+      "full_response": "C. fossil fuels\n\nExplanation: Fossil fuels are nonrenewable sources of energy that are used to generate electricity. They are also a source of greenhouse gas emissions. Wind turbines, hydroelectric dams, and solar cells are examples of nonre"
+    },
+    {
+      "question": "Which job is done in Virginia only during the fall season?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.394817352294922,
+      "full_response": "A. Picking apples\n\nExplanation: The correct answer is A, which is picking apples. Virginia is a state in the southeastern region of the United States, and the fall season is the time when apples are harvested and sold. Therefore, the job"
+    },
+    {
+      "question": "A researcher is working on a family genetics project. She wants to trace a particular trait back through several generations of her ancestors. Which type of display will best help the researcher organize the information?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.068861961364746,
+      "full_response": "C. pedigree chart\n\nExplanation: A pedigree chart is a visual representation of the relationships between individuals in a family tree. It shows the relationships between the parents, children, and siblings of each individual. It helps the researcher organize the information by showing the"
+    },
+    {
+      "question": "Which of these is the primary source of energy in food webs?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 7.462350368499756,
+      "full_response": "B. sunlight\n\nExplanation: The primary source of energy in food webs is sunlight. This is because sunlight is the energy source that plants use to produce food. When plants receive sunlight, they convert it into chemical energy, which they then use to produce"
+    },
+    {
+      "question": "Which of the following is an example of a compound?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.73389744758606,
+      "full_response": "A. copper\n\nExplanation: Copper is a metal that is a compound. It is a group of atoms that are arranged in a specific way to form a solid, liquid, or gas. Copper is a metal that is used in various applications, such"
+    },
+    {
+      "question": "Which of these is a structure that is present in all organisms?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 8.46929931640625,
+      "full_response": "B. a cell\n\nExplanation: A cell is a basic unit of life that is present in all organisms. It is a single, enclosed cell surrounded by a membrane that allows for communication and movement. It is the basic unit of life and is responsible"
+    },
+    {
+      "question": "Which of these is the BEST sign that the fall season has begun?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.00322151184082,
+      "full_response": "A. Plants forming new buds\n\nExplanation: The best sign that the fall season has begun is when plants form new buds. Buds are the first signs of change in the plant's growth cycle, and they are typically visible in the fall. Sun"
+    },
+    {
+      "question": "Dr. Mendez specializes in patients who have osteoarthritis. His patients often complain of pain and swelling due to loss of cartilage. Which system is most affected by this disease?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 8.49170732498169,
+      "full_response": "D. musculoskeletal\n\nExplanation: Musculoskeletal system is responsible for the movement of the body and its components. It includes bones, muscles, tendons, ligaments, and nerves. When the cartilage in the joints of the bones wears"
+    },
+    {
+      "question": "A scientist found a fossil of an organism that had gills. When the organism was living, the area in which it lived was most likely covered by ___.",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.144816398620605,
+      "full_response": "A. forest\n\nExplanation: The gills of an organism are found in the lungs of the organism. The lungs are the part of the body where oxygen is taken in and carbon dioxide is released out. The area in which the organism lived was most"
+    },
+    {
+      "question": "Which plant is grown for food?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.79690957069397,
+      "full_response": "A. Rice\n\nExplanation: Rice is a cereal plant that is grown for food. It is a member of the Fabaceae family, which includes many other plants as well. The other options are not related to the cultivation of rice."
+    },
+    {
+      "question": "Which of these activities makes the MOST air pollution?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 9.01192331314087,
+      "full_response": "A. Storing trash bags\n\nExplanation: Storing trash bags does not make air pollution, as it does not produce any pollutants. Reusing trash bags, on the other hand, does produce some air pollution, as it requires energy to produce and"
+    },
+    {
+      "question": "Jamil studied how the position of Earth around the Sun affects the energy available on Earth. Which best explains why a particular place on Earth receives more energy during summer months than winter months?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.382370233535767,
+      "full_response": "A. the tilt of Earth\n\nExplanation: The tilt of Earth causes the Sun's rays to be directed towards the Earth's equator, which is closer to the Sun than the poles. This causes the Earth to receive more energy during summer months than"
+    },
+    {
+      "question": "When light reflects off certain crystals in the atmosphere, effects called halos appear. Which substance in the atmosphere forms these crystals?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 1.110841989517212,
+      "full_response": "A. carbon dioxide"
+    },
+    {
+      "question": "A cut to the skin is treated with antiseptic first to avoid",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 9.769859313964844,
+      "full_response": "B. a bacterial infection.\n\nExplanation: Antiseptic is used to treat cuts and wounds to prevent infection. It is important to use antiseptic to prevent bacterial infections, which can cause further damage to the cut or wound. The other options are"
+    },
+    {
+      "question": "The charge of the nucleus of an atom is due to the presence of",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 1.4570281505584717,
+      "full_response": "A. positive protons."
+    },
+    {
+      "question": "When manned space exploration began, NASA used the gravity assist concept so that spacecraft could conserve fuel. Which statement explains why the gravity assist concept was useful for spacecraft to successfully travel and return to Earth?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.192380666732788,
+      "full_response": "A. It gave spacecraft a timed trajectory.\n\nExplanation: The gravity assist concept was useful for spacecraft to successfully travel and return to Earth because it gave spacecraft a timed trajectory. This means that the spacecraft would have a specific time to travel and return to Earth"
+    },
+    {
+      "question": "Which is most directly responsible for building up a river delta?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.857972860336304,
+      "full_response": "A. erosion\n\nExplanation: The most direct cause of building up a river delta is erosion. When water flows over the land, it erodes the soil and rocks, causing the river to become deeper and wider. This process is known as subsidence"
+    },
+    {
+      "question": "Students visit an aquarium and watch how an octopus behaves in its tank. Which behavior did the octopus most likely learn from its aquarium environment?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.192147493362427,
+      "full_response": "A. waiting to be fed at the aquarium door\n\nExplanation: The octopus is likely to learn to wait to be fed at the aquarium door because it is a marine animal and is adapted to living in a tank. It is also likely to learn"
+    },
+    {
+      "question": "Which would be a safe practice to exercise during laboratory investigations?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.45930290222168,
+      "full_response": "C. knowing where your instructor/laboratory leader is at all times\n\nExplanation: In laboratory investigations, it is important to follow safety protocols to ensure the safety of both yourself and others. This includes keeping your cell phone on the laboratory countertop,"
+    },
+    {
+      "question": "Which human body systems work together to send messages?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 7.920813322067261,
+      "full_response": "B. nervous and endocrine\n\nExplanation: The nervous system is responsible for transmitting information from the brain to the body. It includes the spinal cord, which carries the signals from the brain to the muscles, and the brainstem, which is responsible for"
+    },
+    {
+      "question": "A dietary supplement manufacturer developed a new calcium supplement that appears to increase the bone density in middle-aged women. When tested in a small clinical trial, the supplement was shown to cause a 15% increase in bone density in 8 out of 10 women. Before the supplement is offered to the general public, which step should the manufacturer take next?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 8.487674236297607,
+      "full_response": "D. test the supplement on a larger sample of women\n\nExplanation: The manufacturer should test the supplement on a larger sample of women to ensure that it is safe and effective for all women. This will help to confirm that the supplement is not causing any"
+    },
+    {
+      "question": "Students combined baking soda and vinegar to demonstrate a chemical reaction. What indicates that a chemical reaction occurred?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.518198728561401,
+      "full_response": "A. the formation of bubbles\n\nExplanation: When students combine baking soda and vinegar, they are creating a solution that contains both sodium bicarbonate (sodium bicarbonate) and water. When the solution is heated, the sodium bicarbonate reacts with the"
+    },
+    {
+      "question": "An animal that has thick fur, webbed feet, and blubber would probably live in the",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 1.166510820388794,
+      "full_response": "A. Arctic Ocean."
+    },
+    {
+      "question": "Which of these events during a storm at sea can add oxygen from the atmosphere to ocean water?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.554547548294067,
+      "full_response": "A. high winds\n\nExplanation: High winds can add oxygen to ocean water by increasing the temperature of the water. This is because high winds can cause the water to move faster, which increases the speed of the air currents. As the air currents move"
+    },
+    {
+      "question": "The human brain is an organ that is made up of many tissues. This information can be used to determine that the brain is",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 7.778098821640015,
+      "full_response": "B. multicellular.\n\nThe correct answer is B. multicellular. The human brain is made up of many tissues, including the cerebrum, which is the largest part of the brain. The cerebrum is divided into two hemispheres"
+    },
+    {
+      "question": "Which is the best description of the brightness of the Sun?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 1.7908046245574951,
+      "full_response": "B. It is brighter than other stars."
+    },
+    {
+      "question": "An enclosed 20 mL metal cylinder was filled with a gas sample at room temperature. The sample then was transferred to an empty 40 mL enclosed container, also at room temperature. After being transferred, the volume of the gas was",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.029128551483154,
+      "full_response": "A. 10 mL.\n\nExplanation: The gas sample was transferred from a 20 mL cylinder to an empty 40 mL container at room temperature. The volume of the gas in the 40 mL container is the same as the"
+    },
+    {
+      "question": "Which trait can children inherit from their parents?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 5.699314832687378,
+      "full_response": "A. long hair\n\nExplanation: Long hair is a characteristic trait that can be inherited from parents. It is a result of the genes passed down from one generation to the next."
+    },
+    {
+      "question": "What season is it in the United States when the South Pole is tilted toward the Sun?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.7918312549591064,
+      "full_response": "A. summer\n\nExplanation: The South Pole is tilted toward the Sun during the summer season in the United States. This is because the Earth's axis is tilted relative to the Sun, causing the Sun to be directly overhead during the summer months."
+    },
+    {
+      "question": "Which of these cell parts store genetic instructions for the entire organism and transfers them from one generation to the next?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 1.1774535179138184,
+      "full_response": "C. DNA molecules"
+    },
+    {
+      "question": "An octopus releases black ink into the water when feeling threatened. What does this most likely help an octopus do?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.07235312461853,
+      "full_response": "A. find shelter\n\nExplanation: The octopus releases black ink into the water when feeling threatened. This ink is a form of communication that helps the octopus find shelter. When the octopus feels threatened, it releases the ink, which is a"
+    },
+    {
+      "question": "Two of Earth's plates pushed together, and the ground moved. What happened?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.735720157623291,
+      "full_response": "A. an earthquake\n\nExplanation: The two plates that pushed together and moved the ground are called tectonic plates. When tectonic plates move, they cause earthquakes. This is because the plates are moving, and the pressure on the plates can"
+    },
+    {
+      "question": "Which material is a good conductor of heat?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 7.8770952224731445,
+      "full_response": "D. copper\n\nExplanation: Copper is a good conductor of heat because it has a high melting point and a low specific heat capacity. This means that it can hold a lot of heat and transfer it to its surroundings quickly. Other materials, such as"
+    },
+    {
+      "question": "During digestion, fructose is produced by the breakdown of larger molecules. Which type of molecule could be broken down to increase the body's fructose levels?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 8.470014095306396,
+      "full_response": "D. carbohydrates\n\nExplanation: Carbohydrates are the primary source of energy for the body. They are broken down into glucose, which is the primary source of energy for the body. Fructose is a type of sugar that is broken down into glucose"
+    },
+    {
+      "question": "Leslie's science teacher told her she must take a flexible approach to solving problems. What did Leslie's teacher most likely mean?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 8.721549987792969,
+      "full_response": "D. Leslie should be willing to consider many possible causes for her observations.\n\nExplanation: The teacher's statement suggests that Leslie should be open to considering multiple possible explanations for her observations. This is a flexible approach to solving problems, as it allows for a"
+    },
+    {
+      "question": "A scientist trying to identify an unknown liquid may heat the liquid. Which would be the best reason for the scientist to heat the liquid?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 9.16075873374939,
+      "full_response": "B. to get rid of most impurities\n\nExplanation: The correct answer is B, as heating the liquid would be the best reason for the scientist to get rid of most impurities. When a scientist heats a liquid, it is usually to remove"
+    },
+    {
+      "question": "During freezing, melting, and boiling, water changes from one state to another state. Heat needs to be supplied for which of these to take place?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "C",
+      "is_correct": false,
+      "response_time": 7.630284547805786,
+      "full_response": "C. melting and freezing but not boiling\n\nExplanation: During freezing, melting, and boiling, water changes from one state to another state. Heat needs to be supplied for melting and freezing but not boiling."
+    },
+    {
+      "question": "A model of Earth would be different from a model of the Moon because the Moon model would be",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 8.431567192077637,
+      "full_response": "B. heavier\n\nExplanation: The Moon is a natural satellite of Earth, and it is much heavier than Earth. The Moon's mass is about 1/60 of Earth's mass, which is much smaller than the mass of Earth. Therefore"
+    },
+    {
+      "question": "The magnetic poles of Earth frequently change location. What is the direct cause of this change in magnetic pole location?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 8.237454414367676,
+      "full_response": "B. convection cells in the lower mantle\n\nExplanation: The magnetic poles of Earth are constantly changing due to the movement of convection cells in the lower mantle. These cells are responsible for the movement of the Earth's magnetic field, which is the"
+    },
+    {
+      "question": "In the late 1700s, Antoine Lavoisier performed a series of experiments to find out what happened when a substance burned. In each experiment, he observed that the weight of a container and its contents was the same at the end of the experiment as it had been in the beginning. These observations led him to propose the law of",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.151410579681396,
+      "full_response": "C. conservation of mass.\n\nExplanation: The law of conservation of mass states that the total mass of an object remains constant during a chemical reaction. In the case of Antoine Lavoisier's experiments, the weight of the container and its contents remained"
+    },
+    {
+      "question": "Which of the following is a direct result of Earth's tilt on its axis?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.18495774269104,
+      "full_response": "A. tides\n\nExplanation: Tides are caused by the gravitational pull of the moon on the Earth's surface. When the moon is at its closest point to the Earth, the gravitational force is stronger, causing the water to rise. When the"
+    },
+    {
+      "question": "Which type of model best shows the location of underwater ocean ridges?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 8.66998553276062,
+      "full_response": "C. topographic map\n\nThe correct answer is C: topographic map. A world globe, satellite map, or nautical chart are all used to show the location of ocean ridges, but they do not provide information about the depth of the"
+    },
+    {
+      "question": "An earthworm has a length of 12.8 centimeters. What is the length, in millimeters, of the earthworm?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 11.514243364334106,
+      "full_response": "A. 0.128 millimeter\n\nExplanation: The length of an earthworm is given in centimeters, which is 12.8 centimeters. To convert centimeters to millimeters, we multiply by 100"
+    },
+    {
+      "question": "A student mixes a spoonful of sand into a beaker of water. Which two methods can be used to separate the sand from the water?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 10.336630821228027,
+      "full_response": "A. filtration and evaporation\n\nExplanation: The correct answer is A. filtration and evaporation. This method involves separating the sand from the water by removing the water and allowing the sand to settle to the bottom of the beaker. The sand will"
+    },
+    {
+      "question": "Which difference between water and ice results in ice floating on cold water?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 9.004218339920044,
+      "full_response": "C. density\n\nExplanation: Water and ice are both liquids, but they differ in their density. Water has a higher density than ice, which is why it floats on water. The density of water is 1000 kg/m\u00b3,"
+    },
+    {
+      "question": "The first stage of soil formation is the weathering of rock into fine particles. To make a good soil for growing plants, which would be best to add to the rock particles?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.155380964279175,
+      "full_response": "A. minerals\n\nExplanation: The first stage of soil formation is the weathering of rock into fine particles. To make a good soil for growing plants, minerals would be best to add to the rock particles. This is because minerals are the building blocks"
+    },
+    {
+      "question": "What force pulls things towards the center of Earth?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 5.854979038238525,
+      "full_response": "B. gravity\n\nExplanation: Gravity is the force that pulls things towards the center of Earth. It is a fundamental force that is responsible for the movement of objects in the universe."
+    },
+    {
+      "question": "Biochemical reactions that require high temperatures to proceed are able to take place at body temperature within the cells of living organisms. Which factor is mainly responsible for allowing biochemical reactions to proceed at body temperature?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 2.556232452392578,
+      "full_response": "A. The cellular enzymes act as catalysts."
+    },
+    {
+      "question": "Which organisms break down dead matter and recycle nutrients back into the ecosystem?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.819513320922852,
+      "full_response": "A. grasses and trees\n\nExplanation: Grasses and trees are plants that break down dead matter and recycle nutrients back into the ecosystem. They are also known for their ability to photosynthesize, which means they can convert sunlight into energy. Grass"
+    },
+    {
+      "question": "Which of these is an example of a new substance being formed?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.622633218765259,
+      "full_response": "A. a nail rusting\n\nExplanation: A nail rusting is a physical change that occurs when a nail is exposed to moisture and oxygen. It is a natural process that occurs in the nail's surface and is not a new substance being formed."
+    },
+    {
+      "question": "Which sequence has the states of matter listed from least to greatest kinetic energy?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 10.00873589515686,
+      "full_response": "A. solid -> gas -> liquid\n\nExplanation: The correct answer is A, which is solid -> gas -> liquid. This is because the kinetic energy of a gas is higher than that of a liquid, and the kinetic energy of a liquid is higher"
+    },
+    {
+      "question": "What type of force keeps the planets orbiting the Sun?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.629697561264038,
+      "full_response": "A. gravitational\n\nExplanation: The planets orbit the Sun due to the gravitational force exerted by the Sun. The Sun is the center of the solar system, and it attracts the planets with its gravity. This force is what keeps the planets in their"
+    },
+    {
+      "question": "Physical features help animals survive. Which statement best describes physical adaptations that occur through natural selection in changing environments?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 8.16573166847229,
+      "full_response": "B. They are all observable in the fossil record.\n\nExplanation: Physical adaptations that occur through natural selection in changing environments are all observable in the fossil record. This means that the fossil record provides evidence of the physical features that have evolved over time in different"
+    },
+    {
+      "question": "A scientific explanation should include a demonstration of the relationships between",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.101372241973877,
+      "full_response": "A. measurement, form, and function.\n\nExplanation: A scientific explanation should include a demonstration of the relationships between measurement, form, and function. This is because measurement is the process of determining the size, shape, and position of an object, while"
+    },
+    {
+      "question": "Which human body systems work directly together to allow locomotion?",
+      "category": "Science",
+      "correct_answer": "3",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.6734790802001953,
+      "full_response": "A."
+    },
+    {
+      "question": "What is a benefit of using technology, such as robotics, in manufacturing?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.801926374435425,
+      "full_response": "A. decreased production cost\n\nExplanation: Technology, such as robotics, can help reduce the number of manual-labor jobs in manufacturing. This is because robots can perform repetitive tasks with greater accuracy and efficiency, reducing the need for human intervention. Additionally,"
+    },
+    {
+      "question": "Which type of ecosystem has the greatest variation in temperature from its top to its bottom?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 9.86669373512268,
+      "full_response": "A. lake\n\nExplanation: The lake ecosystem has the greatest variation in temperature from its top to its bottom because it is a large body of water with a wide range of temperatures. The top of the lake is typically cooler than the bottom, which means"
+    },
+    {
+      "question": "Which form of energy is produced when a rubber band vibrates?",
+      "category": "Science",
+      "correct_answer": "4",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.9675352573394775,
+      "full_response": "A."
+    },
+    {
+      "question": "Which are replenished more quickly than they are used?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.971273183822632,
+      "full_response": "A. energy resources\n\nExplanation: Energy resources are those resources that are replenished more quickly than they are used. They include fossil fuels, such as coal, oil, and natural gas, and renewable resources, such as solar, wind, and hydro"
+    },
+    {
+      "question": "The job of the bladder in an animal is to store wastes. Which organ in an animal removes wastes from the blood?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "C",
+      "is_correct": false,
+      "response_time": 9.296732902526855,
+      "full_response": "C. stomach\n\nExplanation: The stomach is the organ that stores waste products and eliminates them from the body. It is responsible for absorbing nutrients from the food and breaking down food into smaller molecules. The waste products are then transported to the kidneys, where"
+    },
+    {
+      "question": "Imprints of the shells of ocean clams are often found in the rocks of the Appalachian Mountains. What do these imprint fossils most likely indicate?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.7468178272247314,
+      "full_response": "A. These mountains were once under the ocean.\n\nExplanation: The Appalachian Mountains are located in the Appalachian region of the United States, which is known for its diverse geological features. The presence of imprints of ocean clams in the rocks of the mountains"
+    },
+    {
+      "question": "All living things contain which element?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 0.9594860076904297,
+      "full_response": "D. carbon."
+    },
+    {
+      "question": "Miranda learned how the human body carries out life functions. Which is the most basic level of organization in the human body?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.181117534637451,
+      "full_response": "A. an organ\n\nMiranda learned how the human body carries out life functions. Which is the most basic level of organization in the human body? A. an organ B. a system C. a tissue D. a cell\n\nAnswer: A"
+    },
+    {
+      "question": "A large amount of oil was spilled in a lake environment. Within a few weeks, the number of plants and animals living in the area where the oil was spilled will most likely",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.318617343902588,
+      "full_response": "A. decrease\n\nExplanation: The oil spill will most likely decrease the number of plants and animals living in the area. This is because the oil will cover the plants and animals, making them invisible to the environment. As a result, the plants and"
+    },
+    {
+      "question": "Which of these is a natural resource of Virginia?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.24431824684143,
+      "full_response": "A. A dam\n\nExplanation: A dam is a structure that is used to store water and control its flow. It is a natural resource of Virginia because it is a large body of water that is used for irrigation, hydroelectric power generation, and"
+    },
+    {
+      "question": "The trunk of a pine tree supports the tree. Which part of a daisy supports the plant the same way?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.139790296554565,
+      "full_response": "A. stem\n\nExplanation: The trunk of a pine tree supports the tree. The trunk is the main support for the tree. It is a part of the tree's root system. The stem is the main support for the plant. It is a"
+    },
+    {
+      "question": "Humans are protected from some infections by specialized cells which produce chemicals that",
+      "category": "Science",
+      "correct_answer": "1",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.6468124389648438,
+      "full_response": "A."
+    },
+    {
+      "question": "Having dry, hot weather for a long time can cause a",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 7.96425724029541,
+      "full_response": "A. drought\n\nThe correct answer is A: drought. Dry, hot weather can cause a drought, which is a long-term decrease in rainfall or water supply. This can lead to a decrease in the amount of water available for crops, animals,"
+    },
+    {
+      "question": "Which statement below best explains why several fossils of sea organisms were discovered buried deep in an area of dry land?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "C",
+      "is_correct": true,
+      "response_time": 1.8433756828308105,
+      "full_response": "C. The land was once underwater."
+    },
+    {
+      "question": "Which process is taking place when water freezes between cracks in rocks?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "D",
+      "is_correct": false,
+      "response_time": 9.194267272949219,
+      "full_response": "D. crystallization\n\nExplanation: Crystallization is the process by which water freezes between cracks in rocks. This process is the result of the freezing of water molecules in the cracks, which then form ice crystals. The ice crystals then grow and"
+    },
+    {
+      "question": "A student wants to organize a group of animals into two categories based on observable external features. Which display will most appropriately show the two categories of animals?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 10.156946182250977,
+      "full_response": "A. a timeline\n\nExplanation: A timeline is a visual representation of events or dates, typically used to display the chronological order of events. It is a useful tool for organizing and presenting data, but it is not suitable for displaying the two categories of"
+    },
+    {
+      "question": "Fossil fuels are considered nonrenewable because they",
+      "category": "Science",
+      "correct_answer": "4",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.7309448719024658,
+      "full_response": "A."
+    },
+    {
+      "question": "Which device directly converts chemical energy into electrical energy?",
+      "category": "Science",
+      "correct_answer": "3",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.6372518539428711,
+      "full_response": "A."
+    },
+    {
+      "question": "What helps skin feel heat and pressure?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.982911825180054,
+      "full_response": "A. muscle cells\n\nExplanation: The answer is A because muscle cells are responsible for the sensation of heat and pressure. They are the cells that make up the muscles of the body and are responsible for the contraction and relaxation of the muscles. The other"
+    },
+    {
+      "question": "When a bird sings, it is most likely singing in order to",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 8.271624088287354,
+      "full_response": "B. mark the bird's territory against the same type of bird\n\nExplanation: When a bird sings, it is most likely singing in order to mark the bird's territory against the same type of bird. This is because birds have a complex system of"
+    },
+    {
+      "question": "Which of the following best describes the relationship between frequency and wavelength of electromagnetic waves?",
+      "category": "Science",
+      "correct_answer": "C",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 7.9747395515441895,
+      "full_response": "A\n\nThe correct answer is A. If the frequency remains constant, the wavelength increases. This is because the wavelength is the distance between two consecutive crests or troughs of the wave, and the frequency is the number of waves that pass a given"
+    },
+    {
+      "question": "A drug company developed a pill to reduce cases of stomach virus. To test the medication, half of the participants got the pill with the new medicine and half got a sugar pill. Which term best identifies the participants who got a sugar pill?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 8.715001821517944,
+      "full_response": "B. experimental\n\nExplanation: The term \"experimental\" refers to the participants who received the pill with the new medicine. The pill with the new medicine is considered an experimental treatment, and the participants who received the sugar pill are considered the independent variable."
+    },
+    {
+      "question": "Which statement best describes the effect deforestation has on Earth's atmosphere?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "D",
+      "is_correct": true,
+      "response_time": 8.491970777511597,
+      "full_response": "D. The amount of carbon dioxide increases.\n\nExplanation: Deforestation has a significant impact on the Earth's atmosphere. Trees absorb carbon dioxide from the atmosphere through photosynthesis, which is a process that releases carbon dioxide back into the atmosphere. When trees are"
+    },
+    {
+      "question": "Which of the following is composed of many cells?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "B",
+      "is_correct": false,
+      "response_time": 9.17307734489441,
+      "full_response": "B. bacterium\n\nExplanation: Bacteria are single-celled organisms that can reproduce sexually or asexually. They are found in the human body, where they play a crucial role in the digestion of food and the immune system. Bacteria are"
+    },
+    {
+      "question": "The heath hen, an extinct small wild fowl, was a relative of the prairie chicken. Which of the following most likely caused extinction of the heath hen?",
+      "category": "Science",
+      "correct_answer": "A",
+      "model_answer": "A",
+      "is_correct": true,
+      "response_time": 8.351895809173584,
+      "full_response": "A. overhunting\n\nExplanation: The heath hen was a small wild fowl that lived in the prairie. Overhunting by humans led to the extinction of the heath hen. This is because overhunting led to the loss"
+    },
+    {
+      "question": "Which factor is most likely to cause the number of rabbits living in an area to increase?",
+      "category": "Science",
+      "correct_answer": "2",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 0.7389440536499023,
+      "full_response": "A."
+    },
+    {
+      "question": "Cell division is necessary for an organism to",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 1.2738475799560547,
+      "full_response": "B. grow and reproduce."
+    },
+    {
+      "question": "Francis plugged a toaster into an electric outlet. He put a piece of bread in the toaster and turned the toaster on. While the toaster was on, it changed the electrical energy from the outlet into other forms of energy. Which form of energy toasted the bread?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "B",
+      "is_correct": true,
+      "response_time": 4.507847785949707,
+      "full_response": "B. heat\n\nExplanation: The toaster changed the electrical energy from the outlet into heat. This heat is what toasted the bread."
+    },
+    {
+      "question": "A student uses clay to construct a model of Earth. Which layer of the model should be the thinnest layer?",
+      "category": "Science",
+      "correct_answer": "D",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.734022855758667,
+      "full_response": "A. the layer representing the mantle\n\nExplanation: The thinnest layer of the Earth's crust is the mantle. It is the layer that is most likely to be found beneath the Earth's surface. The mantle is composed of a mixture of rock"
+    },
+    {
+      "question": "In their science classroom, Sam and Julia cross a heterozygous tall (Tt) pea plant with a homozygous short (tt) pea plant. What ratio represents the results Sam and Julia can expect?",
+      "category": "Science",
+      "correct_answer": "B",
+      "model_answer": "A",
+      "is_correct": false,
+      "response_time": 8.954452753067017,
+      "full_response": "A. 1 tall plant to 3 short plants\n\nExplanation: In this scenario, Sam and Julia are comparing tall plants to short plants. Since the heterozygous tall plant has two alleles (T and t), they can expect 1"
+    }
+  ],
+  "metrics": {
+    "overall_accuracy": 0.5,
+    "total_questions": 100,
+    "correct_answers": 50,
+    "average_response_time": 7.1399912881851195,
+    "median_response_time": 8.153395771980286,
+    "category_accuracy": {
+      "mean": {
+        "Science": 0.5
+      },
+      "count": {
+        "Science": 100
+      }
+    }
+  }
+}

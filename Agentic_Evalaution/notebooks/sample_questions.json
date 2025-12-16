@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What are the solutions to the quadratic equation 3x^2 - x = 0?",
+    "options": {
+      "A": "x = -1, 0",
+      "B": "x = 0, 1/3",
+      "C": "x = -1/3, 0",
+      "D": "x = -1, 1/3"
+    },
+    "correct_answer": "A",
+    "explanation": "To solve the equation 3x^2 - x = 0, factor out x to get x(3x - 1) = 0. Set each factor to zero to find x = -1 and x = 0.",
+    "difficulty": "medium",
+    "topic": "Quadratic Equations",
+    "evaluation_score": 0.8
+  },
+  {
+    "id": 2,
+    "question": "What are the roots of the quadratic equation x^2 - 5x + 6 = 0?",
+    "options": {
+      "A": "x = 2, 3",
+      "B": "x = -2, -3",
+      "C": "x = 2, -3",
+      "D": "x = -2, 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Factor the quadratic equation x^2 - 5x + 6 = 0 to get (x - 2)(x - 3) = 0. Set each factor to zero to find x = 2 and x = 3.",
+    "difficulty": "medium",
+    "topic": "Quadratic Equations",
+    "evaluation_score": 0.8
+  },
+  {
+    "id": 3,
+    "question": "For the quadratic equation 2x^2 + 3x - 2 = 0, what are the solutions?",
+    "options": {
+      "A": "x = -2, 1/2",
+      "B": "x = -1, 1/2",
+      "C": "x = -2, 1",
+      "D": "x = -1, 1"
+    },
+    "correct_answer": "B",
+    "explanation": "Factor the quadratic equation 2x^2 + 3x - 2 = 0 to get (2x - 1)(x + 2) = 0. Solve for x to get x = -1 and x = 1/2.",
+    "difficulty": "medium",
+    "topic": "Quadratic Equations",
+    "evaluation_score": 0.7
+  },
+  {
+    "id": 1,
+    "question": "What is the solution to the linear equation 3x - 5 = 7?",
+    "options": {
+      "A": "x = 2",
+      "B": "x = 4",
+      "C": "x = 6",
+      "D": "x = 12"
+    },
+    "correct_answer": "A",
+    "explanation": "To solve 3x - 5 = 7, we first add 5 to both sides: 3x = 12. Then, divide by 3 to find x = 4.",
+    "difficulty": "easy",
+    "topic": "Solving Linear Equations",
+    "evaluation_score": 0.75
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is equivalent to 5^-2?",
+    "options": {
+      "A": "1/25",
+      "B": "25",
+      "C": "1/5",
+      "D": "5^2"
+    },
+    "correct_answer": "A",
+    "explanation": "A negative exponent indicates the reciprocal of the base raised to the positive exponent. Therefore, 5^-2 = 1/(5^2) = 1/25.",
+    "difficulty": "hard",
+    "topic": "Laws of Exponents",
+    "evaluation_score": 0.8
+  }
+]
