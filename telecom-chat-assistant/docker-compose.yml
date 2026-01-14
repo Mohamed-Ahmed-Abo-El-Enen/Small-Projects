@@ -1,0 +1,86 @@
+version: '3.8'
+
+services:
+  # Ollama Service (Local LLM)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: telecom-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # FastAPI Backend
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telecom-api
+    ports:
+      - "8000:8000"
+    environment:
+      - USE_LOCAL_MODEL=true
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - LOCAL_MODEL_NAME=qwen3:latest
+      - LOCAL_VISION_MODEL_NAME=minicpm-v:latest
+      - LOG_LEVEL=INFO
+      - LOG_DIR=logs
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      ollama:
+        condition: service_healthy
+    restart: unless-stopped
+    command: python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Streamlit Frontend
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telecom-streamlit
+    ports:
+      - "8501:8501"
+    environment:
+      - USE_LOCAL_MODEL=true
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - LOCAL_MODEL_NAME=qwen3:latest
+      - LOCAL_VISION_MODEL_NAME=minicpm-v:latest
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      api:
+        condition: service_healthy
+      ollama:
+        condition: service_healthy
+    restart: unless-stopped
+    command: python run_streamlit.py
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+volumes:
+  ollama_data:
+    driver: local
+
+networks:
+  default:
+    name: telecom-network
