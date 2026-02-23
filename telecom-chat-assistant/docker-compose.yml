@@ -10,7 +10,7 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - OPENAI_API_KEY=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
+      - OPENAI_API_KEY=XXX-XXX-XXX
       - USE_LOCAL_MODEL=false
       - OLLAMA_BASE_URL=https://esquamate-azaria-instructive.ngrok-free.dev
       - LOCAL_MODEL_NAME=qwen3:latest
