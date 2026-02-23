@@ -59,7 +59,8 @@ class ImageProcessor:
 
                 img = img.resize(new_size, Image.Resampling.LANCZOS)
 
-                resized_path = f"{image_path}_resized.jpg"
+                image_name = os.path.splitext(os.path.basename(image_path))[0]
+                resized_path = os.path.join(settings.TMP_DATA_DIR, f"{image_name}_resized.jpg")
                 img.save(resized_path, "JPEG", quality=85, optimize=True)
 
                 return resized_path

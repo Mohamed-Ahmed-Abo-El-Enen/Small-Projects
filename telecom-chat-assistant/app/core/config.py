@@ -33,6 +33,7 @@ class Settings(BaseSettings):
     DATA_DIR: Path = BASE_DIR / "data"
     FAISS_INDEX_PATH: Path = DATA_DIR / "faiss_index"
     CHAT_HISTORY_DB: Path = DATA_DIR / "chat_history.db"
+    TMP_DATA_DIR: Path =  BASE_DIR / "tmp_data"
 
     ALLOWED_EXTENSIONS: List[str] = ['.pdf', '.docx', '.txt', '.html', '.png', '.jpg', '.jpeg']
     MAX_FILE_SIZE_MB: int = 10

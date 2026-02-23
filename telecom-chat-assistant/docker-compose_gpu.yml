@@ -1,6 +1,22 @@
 version: '3.8'
 
 services:
+  # Ollama Service (Local LLM)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: telecom-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
   # FastAPI Backend
   api:
     build:
@@ -10,9 +26,8 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - OPENAI_API_KEY=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
-      - USE_LOCAL_MODEL=false
-      - OLLAMA_BASE_URL=https://esquamate-azaria-instructive.ngrok-free.dev
+      - USE_LOCAL_MODEL=true
+      - OLLAMA_BASE_URL=http://ollama:11434
       - LOCAL_MODEL_NAME=qwen3:latest
       - LOCAL_VISION_MODEL_NAME=minicpm-v:latest
       - LOG_LEVEL=INFO
@@ -21,10 +36,11 @@ services:
       - ./data:/app/data
       - ./logs:/app/logs
       - ./tmp_data:/app/tmp_data
+    depends_on:
+      ollama:
+        condition: service_healthy
     restart: unless-stopped
     command: python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
@@ -41,13 +57,10 @@ services:
     ports:
       - "8501:8501"
     environment:
-      - OPENAI_API_KEY=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
-      - USE_LOCAL_MODEL=false
-      - OLLAMA_BASE_URL=https://esquamate-azaria-instructive.ngrok-free.dev
+      - USE_LOCAL_MODEL=true
+      - OLLAMA_BASE_URL=http://ollama:11434
       - LOCAL_MODEL_NAME=qwen3:latest
       - LOCAL_VISION_MODEL_NAME=minicpm-v:latest
-      - LOG_LEVEL=INFO
-      - LOG_DIR=logs
     volumes:
       - ./data:/app/data
       - ./logs:/app/logs
@@ -55,16 +68,20 @@ services:
     depends_on:
       api:
         condition: service_healthy
+      ollama:
+        condition: service_healthy
     restart: unless-stopped
     command: python run_streamlit.py
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
       interval: 30s
       timeout: 10s
       retries: 3
       start_period: 60s
+
+volumes:
+  ollama_data:
+    driver: local
 
 networks:
   default:

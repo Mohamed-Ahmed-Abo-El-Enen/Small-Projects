@@ -1,5 +1,6 @@
 import os
 import sys
+import html
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -32,6 +33,10 @@ st.markdown("""
         padding: 15px;
         border-radius: 10px;
         margin: 10px 0;
+        color: #111827 !important;
+    }
+    .chat-message * {
+        color: #111827 !important;
     }
     .user-message {
         background-color: #e0f2fe;
@@ -171,7 +176,7 @@ with st.sidebar:
         if query_image:
             st.image(query_image, caption="Uploaded Image", use_container_width=True)
 
-            save_path = f"./temp_query_{query_image.name}"
+            save_path = os.path.join(settings.TMP_DATA_DIR, f"temp_query_{query_image.name}")
             with open(save_path, "wb") as f:
                 f.write(query_image.getbuffer())
             st.session_state.uploaded_image = save_path
@@ -196,18 +201,19 @@ else:
 
     with chat_container:
         for message in st.session_state.chat_history:
+            content = html.escape(message['content']).replace('\n', '<br>')
             if message['role'] == 'user':
                 st.markdown(f"""
                     <div class="chat-message user-message">
                         <strong>👤 You:</strong><br>
-                        {message['content']}
+                        {content}
                     </div>
                 """, unsafe_allow_html=True)
             else:
                 st.markdown(f"""
                     <div class="chat-message assistant-message">
                         <strong>🤖 Assistant:</strong><br>
-                        {message['content']}
+                        {content}
                     </div>
                 """, unsafe_allow_html=True)
 

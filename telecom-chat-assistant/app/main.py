@@ -26,7 +26,6 @@ async def lifespan(app: FastAPI):
     print("Shutting down Telecom Egypt Assistant API")
     print("=" * 60)
 
-# Create FastAPI app
 app = FastAPI(
     title="Telecom Egypt Intelligent Assistant API",
     description="RAG-powered chatbot with multi-lingual support and vision capabilities",
@@ -53,5 +52,5 @@ if __name__ == "__main__":
         "app.main:app",
         host=settings.API_HOST,
         port=settings.API_PORT,
-        reload=True
+        reload=True,
     )

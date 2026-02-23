@@ -152,6 +152,8 @@ file: [pdf, docx, txt, html, image]
 
 1. **Build Images**
 ```bash
+lsof -t -i:8000 | xargs -r sudo kill -9
+lsof -t -i:8501 | xargs -r sudo kill -9
 docker-compose build
 ```
 
