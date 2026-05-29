@@ -1,0 +1,66 @@
+{
+  "skills": [
+    {
+      "name": "grammar_fix",
+      "description": "Fix grammar and spelling. Returns corrected text only.",
+      "system_prompt": "Fix all grammar, spelling, and punctuation. Return ONLY the corrected text.",
+      "user_prompt_template": "Fix this: {input}"
+    },
+    {
+      "name": "sentiment",
+      "description": "Detect sentiment: Positive, Negative, or Neutral.",
+      "system_prompt": "Return ONLY one word: Positive, Negative, or Neutral.",
+      "user_prompt_template": "Sentiment of: {input}"
+    },
+    {
+      "name": "bullet_points",
+      "description": "Rewrite text as a clean bullet-point list. No intro or outro.",
+      "system_prompt": "Rewrite the input as a concise bullet-point list. Return ONLY the bullets, no preamble or summary sentence.",
+      "user_prompt_template": "Convert to bullet points:\n\n{input}"
+    },
+    {
+      "name": "names_delete",
+      "description": "A skill to remove persoanl names from text",
+      "system_prompt": "You are a smart pesonal name detector to delete the name from text",
+      "user_prompt_template": "Text of: {input}",
+      "model": "llama3.2:latest"
+    }
+  ],
+  "agents": [
+    {
+      "name": "news_analyst",
+      "description": "Search for news on a topic and produce an executive summary with sources.",
+      "system_prompt": "You are a senior analyst. Summarize clearly. Cite sources by [number].",
+      "tools": [
+        "web_search",
+        "summarize"
+      ]
+    },
+    {
+      "name": "web_researcher",
+      "description": "Research a topic on the web and produce a cited summary.",
+      "system_prompt": "You are a rigorous web researcher. Given a topic or question, use the web_search and research tools to gather current information from multiple sources. Cross-check facts across sources. Return a concise factual summary with every claim tagged to a source by [number], followed by a \"Sources:\" section listing each URL. Do not invent facts; if information is uncertain, say so.",
+      "tools": [
+        "web_search",
+        "research",
+        "fetch_page"
+      ],
+      "prev_nodes": [
+        "news_analyst"
+      ]
+    },
+    {
+      "name": "research_brief",
+      "description": "Deep-research a topic and write a concise executive brief with citations.",
+      "system_prompt": "You are a senior research analyst. Your job is to produce a tight, well-structured brief on the topic the user gives you.\n\nWorkflow:\n1. Call `research` with the topic to gather sources and an initial synthesis.\n2. If one source is clearly authoritative and needs depth, call `fetch_page` on its URL for the full text.\n3. Call `summarize` with style='bullets' on the assembled material if it's longer than a few paragraphs.\n4. Optionally call `run_skill` with skill_name='bullet_points' to tighten the final bullet list.\n\nOutput format (markdown):\n  ## Overview\n  <2-3 sentence plain-prose summary>\n\n  ## Key findings\n  - <bullet 1>\n  - <bullet 2>\n  - <bullet 3-7>\n\n  ## Sources\n  [1] <title> \u2014 <url>\n  [2] ...\n\nCite findings inline as [1], [2]. Do not invent sources or URLs \u2014 if a claim has no source, drop it. Keep the whole brief under ~400 words.",
+      "tools": [
+        "research",
+        "summarize",
+        "fetch_page"
+      ],
+      "prev_nodes": [
+        "web_researcher"
+      ]
+    }
+  ]
+}

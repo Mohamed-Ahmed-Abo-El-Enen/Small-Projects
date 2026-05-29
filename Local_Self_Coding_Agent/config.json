@@ -1,0 +1,11 @@
+{
+  "ollama_host": "https://naples-thrown-relate-function.trycloudflare.com",
+  "reasoning_model": "llama3.1:8b",
+  "coding_model": "qwen2.5-coder:7b",
+  "embedding_model": "nomic-embed-text:latest",
+  "max_iterations": 5,
+  "max_fix_attempts": 5,
+  "research_results": 5,
+  "llm_temperature": 0.2,
+  "llm_timeout": 180
+}

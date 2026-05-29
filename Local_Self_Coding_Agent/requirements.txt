@@ -1,0 +1,17 @@
+streamlit>=1.36
+pydantic>=2.7
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-ollama>=0.2
+langgraph>=0.2
+llama-index>=0.11
+llama-index-llms-ollama>=0.3
+llama-index-embeddings-ollama>=0.3
+llama-index-vector-stores-faiss>=0.2
+faiss-cpu>=1.7
+ollama>=0.3
+ddgs
+beautifulsoup4>=4.12
+requests>=2.32
+markdownify>=0.13
